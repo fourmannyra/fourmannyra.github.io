@@ -1,0 +1,52 @@
+<!DOCTYPE>
+<html>
+<html lang="en">
+    <head>
+       <tile>hello world!</tile>
+       <style> 
+    
+    
+       </style>
+
+    </head>
+    <body>
+        
+        <header>
+             <span>manny ortiz</span>
+        </header> 
+        <main>
+            main
+           <article>
+            artilce
+              <section>section</section>
+           </article>
+          <aside>
+            aside
+          </aside>
+        </main>
+        <footer>footer</footer>
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+</html>
