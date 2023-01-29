@@ -10,17 +10,17 @@
 
     </head>
     <body>
-        
+
         <header>
              <span>manny ortiz</span>
         </header> 
         <main>
             main
-           <article>
-            artilce
+            <article>
+             artilce
               <section>section</section>
-           </article>
-          <aside>
+            </article>
+            <aside>
             aside
           </aside>
         </main>
