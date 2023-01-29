@@ -2,4 +2,51 @@
 
 <html lang="en"
 
- <head>
+ <head> 
+    <title>vidoe store home page</title>
+
+    <style>
+
+    header,
+    nav,
+    seation,
+    footer{
+        background: #659494
+        color: white;
+        font-family: arial,sans-serif;
+        font-size: 30px;
+        text-align: center;
+        padding: 30px;
+        margin-bottom: 20px;
+
+    }
+    
+    header:before,
+    nav:before,
+    section:before,
+    footer:before{
+
+       content:'<';
+     }
+
+     header:after,
+     nav:after,
+     section:after,
+     footer:after{
+
+        content:'>';
+     }
+
+
+    
+    </style>
+ 
+ 
+ </head>
+
+ <body>
+ <!--your code will go here-->
+ 
+ </body>
+</html>
+
